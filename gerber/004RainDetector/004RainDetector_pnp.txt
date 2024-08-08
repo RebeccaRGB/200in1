@@ -1,0 +1,37 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=004RainDetector
+*Date=18:23:28
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;transformer;13.7701;-15.1543;0;Bottom;8 OHM
+2;;;20.6463;-7.59344;0;Bottom;TXT7
+3;;;1.97556;-28.0244;0;Bottom;Hole11
+4;;;13.8096;-6.20926;0;Bottom;Hole10
+5;;;14.9864;-27.6576;0;Bottom;TXT7
+6;4.7k;THT;2.21976;-20.247;-90;Bottom;4.7K
+7;;THT;21.1464;-2.57997;90;Bottom;POWER
+8;;;13.8113;-24.1104;0;Bottom;Hole9
+9;2.2k;THT;10.3605;-2.56586;0;Bottom;2.2K
+10;;;15.1067;-15.8842;0;Bottom;IMG1
+11;;;17.2772;-4.03555;0;Bottom;TXT7
+12;;;1.97555;-1.98946;0;Bottom;Hole14
+13;;THT;8.41403;-15.1724;0;Bottom;900CT
+14;;;28.0105;-28.0244;0;Bottom;Hole12
+15;;;15.0122;-27.507;0;Bottom;TXT4
+16;100nF;100 mil [THT, multilayer];4.37112;-15.1345;-90;Bottom;0.1uF
+17;;TO92 [THT];4.25412;-8.07162;90;Bottom;PNP
+18;;THT;24.2001;-23.2006;0;Bottom;LEADS
+19;;THT;24.2147;-7.95774;0;Bottom;+4.5V-
+20;10nF;100 mil [THT, multilayer];4.3794;-21.1828;90;Bottom;0.01uF
+21;;;28.0105;-1.98946;0;Bottom;Hole13
+22;;THT;24.2074;-15.5738;0;Bottom;SPKR

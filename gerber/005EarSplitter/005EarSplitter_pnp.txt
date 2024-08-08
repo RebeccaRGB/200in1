@@ -1,0 +1,37 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=005EarSplitter
+*Date=18:24:35
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;28.0529;-1.94712;0;Bottom;Hole12
+2;;;15.1067;-17.1542;0;Bottom;IMG1
+3;47k;THT;5.34112;-16.4334;-90;Bottom;47K
+4;;transformer;13.7809;-16.2823;0;Bottom;8 OHM
+5;;;13.7979;-7.33719;0;Bottom;Hole10
+6;;;14.984;-27.5588;0;Bottom;TXT2
+7;;;1.97555;-28.0244;0;Bottom;Hole14
+8;50nF;100 mil [THT, multilayer];2.78361;-22.0043;-90;Bottom;0.05uF
+9;;THT;8.40232;-16.3517;0;Bottom;900CT
+10;;;13.3261;-5.02333;0;Bottom;TXT7
+11;100nF;100 mil [THT, multilayer];2.79907;-16.9203;-90;Bottom;0.1uF
+12;10nF;100 mil [THT, multilayer];2.78794;-11.5933;-90;Bottom;0.01uF
+13;;;28.0529;-28.0244;0;Bottom;Hole11
+14;;;1.97555;-1.94712;0;Bottom;Hole13
+15;;THT;24.2134;-15.3154;0;Bottom;+4.5V-
+16;;;13.8253;-25.2383;0;Bottom;Hole9
+17;;;16.6952;-9.49844;0;Bottom;TXT7
+18;;TO92 [THT];17.6834;-3.52022;0;Bottom;PNP
+19;;;14.9864;-27.6576;0;Bottom;TXT7
+20;;THT;23.7168;-6.00039;0;Bottom;POWER
+21;;THT;24.2058;-22.9558;0;Bottom;SPKR
+22;;[THT];7.05007;-4.45399;-90;Bottom;167 168

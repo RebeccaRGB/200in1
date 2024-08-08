@@ -1,0 +1,41 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=002TheNoisyLight
+*Date=18:20:31
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;[THT];6.6376;-8.95771;90;Bottom;167 168
+2;100µF;100 mil [THT, electrolytic];31.3682;-14.9596;-90;Bottom;100uF
+3;;;68.0155;-1.98946;0;Bottom;Hole13
+4;;TO92 [THT];35.3633;-20.6669;180;Bottom;PNP
+5;;;43.2909;-13.8848;-90;Bottom;TXT1
+6;4.7k;THT;20.6436;-20.789;0;Bottom;4.7K
+7;;;1.97555;-1.98946;0;Bottom;Hole12
+8;;;52.2846;-14.332;0;Bottom;IMG1
+9;;;51.1142;-22.9392;0;Bottom;Hole9
+10;;THT;64.2222;-20.4053;0;Bottom;SPKR
+11;;300 mil [THT];21.9926;-17.5464;180;Bottom;43 44
+12;;5 mm [THT];6.6452;-20.2901;0;Bottom;152 153
+13;4.7k;THT;20.6343;-9.21148;0;Bottom;4.7K
+14;;;51.1125;-5.03804;0;Bottom;Hole10
+15;;300 mil [THT];21.9862;-5.68198;180;Bottom;41 42
+16;;TO92 [THT];33.7281;-9.2278;0;Bottom;PNP
+17;470;THT;18.1069;-12.2677;0;Bottom;470
+18;100µF;100 mil [THT, electrolytic];37.7088;-14.9555;90;Bottom;100uF
+19;100;THT;20.644;-23.8334;180;Bottom;100
+20;;;1.97556;-28.0244;0;Bottom;Hole11
+21;;;28.7655;-11.2247;0;Bottom;TXT7
+22;;;24.0594;-27.5306;0;Bottom;TXT2
+23;;;20.5248;-27.6011;0;Bottom;TXT7
+24;;THT;64.2197;-9.72524;0;Bottom;+ 9V -
+25;;transformer;51.0729;-13.9831;0;Bottom;8 OHM
+26;;;68.0155;-28.0244;0;Bottom;Hole14

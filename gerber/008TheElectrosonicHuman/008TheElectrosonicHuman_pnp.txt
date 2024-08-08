@@ -1,0 +1,38 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=008TheElectrosonicHuman
+*Date=18:31:40
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;20.5248;-27.6011;0;Bottom;TXT7
+2;;transformer;51.0749;-15.1964;0;Bottom;8 OHM
+3;;;1.96133;-28.0387;0;Bottom;Hole22
+4;;THT;64.2053;-22.954;0;Bottom;LEADS
+5;;THT;64.1988;-15.3196;0;Bottom;SPKR
+6;;;52.1483;-16.11;0;Bottom;IMG1
+7;;THT;11.4379;-14.5787;-90;Bottom;50K
+8;;;68.0155;-28.0244;0;Bottom;Hole25
+9;;THT;22.6019;-11.9584;0;Bottom;POWER
+10;;;51.1193;-24.1524;0;Bottom;Hole18
+11;4.7k;THT;29.4054;-17.3985;90;Bottom;4.7K
+12;;THT;45.7121;-15.3128;0;Bottom;900CT
+13;10nF;100 mil [THT, multilayer];33.2717;-13.612;-90;Bottom;0.01uF
+14;;;51.0919;-6.25131;0;Bottom;Hole19
+15;;TO92 [THT];37.7427;-12.5419;90;Bottom;PNP
+16;;;30.48;-27.5306;0;Bottom;TXT3
+17;100nF;100 mil [THT, multilayer];37.848;-18.6786;-90;Bottom;0.1uF
+18;;;45.3696;-8.33193;0;Bottom;TXT7
+19;;;16.3934;-17.2479;0;Bottom;Hole21
+20;;THT;64.2188;-7.69948;0;Bottom;+4.5V-
+21;;;68.0155;-1.97935;0;Bottom;Hole24
+22;;;1.97555;-1.97935;0;Bottom;Hole23
+23;;;6.49052;-17.2479;0;Bottom;Hole20
