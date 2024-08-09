@@ -12,9 +12,9 @@ Permanent PCB designs of 200 Radio Shack electronics projects.
 | 6   | Pencil Lead Organ                     |     |  X  |     |     |     |     |     |     |     |     |     | 1x1 |  X  |     |     |     |     |
 | 7   | The Electric Human                    |     |     |     |     |     |     |     |  X  |  X  |     |     | 1x1 |  X  |     |     |     |     |
 | 8   | The Electrosonic Human                |     |  X  |     |     |     |     |     |  X  |     |     |     | 2x1 |  X  |     |     |     |     |
-| 9   | Electric Birthday Cake                |     |     |     |  X  |     |     |     |  X  |     |     |  X  |     |     |     |     |     |     |
-| 10  | Quick Draw                            |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |
-| 11  | Quick Draw II                         |     |     |     |  X  |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |
+| 9   | Electric Birthday Cake                |     |     |     |  X  |     |     |     |  X  |     |     |  X  | 2x1 |  X  |     |     |     |     |
+| 10  | Quick Draw                            |     |     |     |     |  X  |     |     |     |     |     |     | 2x1 |  X  |     |     |     |     |
+| 11  | Quick Draw II                         |     |     |     |  X  |  X  |     |     |     |     |  X  |     | 2x2 |     |     |     |     |     |
 | 12  | Electronic Safecracking               |  X  |     |     |     |     |     |     |  X  |     |     |  X  |     |     |     |     |     |     |
 | 13  | UFO Invasion                          |     |  X  |     |  X  |  X  |     |     |  X  |     |  X  |     |     |     |     |     |     |     |
 | 14  | Tug of War                            |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |
