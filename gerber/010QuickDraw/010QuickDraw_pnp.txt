@@ -1,0 +1,36 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=010QuickDraw
+*Date=21:10:47
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;57.7222;-25.2117;0;Bottom;IMG1
+2;330;THT;44.6488;-17.3986;-90;Bottom;330
+3;;;1.97556;-2.06;0;Bottom;Hole4
+4;10k;THT;24.0608;-10.3703;0;Bottom;10K
+5;;THT;64.205;-20.9199;0;Bottom;+ 4.5V -
+6;;THT;63.7031;-9.43628;0;Bottom;POWER
+7;470;THT;42.0994;-17.4057;-90;Bottom;470
+8;;;68.0156;-28.0244;0;Bottom;Hole2
+9;330;THT;3.49907;-17.3939;-90;Bottom;330
+10;;;1.97556;-28.0244;0;Bottom;Hole1
+11;470;THT;6.03265;-17.3918;-90;Bottom;470
+12;;THT;33.7245;-5.15581;90;Bottom;P2
+13;;;68.0156;-2.06;0;Bottom;Hole3
+14;;5 mm [THT];33.4599;-21.8135;-180;Bottom;P2
+15;;[THT];24.0725;-15.1781;-180;Bottom;167 168#1
+16;;5 mm [THT];14.6531;-21.8122;-180;Bottom;P1
+17;;;20.5248;-27.6011;0;Bottom;TXT7
+18;;;20.4;-27.5306;0;Bottom;TXT1
+19;;;34.8098;-23.8777;0;Bottom;TXT7
+20;;THT;14.6873;-5.17666;90;Bottom;P1
+21;;DIP (Dual Inline) [THT];52.5725;-13.6074;0;Bottom;7476

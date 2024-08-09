@@ -1,0 +1,46 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=009ElectricBirthdayCake
+*Date=17:03:28
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;63.7468;-7.38713;0;Bottom;POWER
+2;;;1.97556;-1.91889;0;Bottom;Hole23
+3;;DIP (Dual Inline) [THT];55.3802;-11.9629;0;Bottom;7400
+4;;300 mil [THT];47.0194;-16.2208;90;Bottom;43 44#1
+5;;TO92 [THT];26.481;-6.48645;90;Bottom;PNP
+6;;;1.97556;-28.0244;0;Bottom;Hole20
+7;;THT;64.2118;-15.3115;0;Bottom;+4.5V-
+8;;THT;13.2117;-9.51264;-90;Bottom;50K
+9;330;THT;40.3314;-17.4688;90;Bottom;330
+10;;;20.5248;-27.6011;0;Bottom;TXT7
+11;;5 mm [THT];5.65079;-21.8178;-180;Bottom;152 153#1
+12;470;THT;32.6943;-17.4709;90;Bottom;470
+13;;THT;64.2235;-22.9316;0;Bottom;EAR
+14;;TO92 [THT];31.561;-6.49653;90;Bottom;PNP
+15;;TO92 [THT];41.2036;-6.11352;-90;Bottom;NPN
+16;100µF;100 mil [THT, electrolytic];46.8574;-6.27659;-180;Bottom;100uF
+17;;;31.1268;-20.8014;0;Bottom;TXT7
+18;330;THT;37.7764;-17.4838;90;Bottom;330
+19;;TO92 [THT];36.1259;-6.13468;-90;Bottom;NPN
+20;;5 mm [THT];13.2533;-21.8349;-180;Bottom;154 155#1
+21;470;THT;42.8607;-17.4816;90;Bottom;470
+22;;5 mm [THT];20.8904;-21.822;-180;Bottom;156 157#1
+23;;;53.6018;-23.8429;0;Bottom;IMG1
+24;470;THT;30.1543;-17.4719;90;Bottom;470
+25;;;68.0156;-28.0244;0;Bottom;Hole21
+26;;;18.1671;-12.1818;0;Bottom;Hole19
+27;470;THT;35.2493;-17.4688;90;Bottom;470
+28;;;8.26421;-12.1818;0;Bottom;Hole18
+29;;;30.5035;-27.5306;0;Bottom;TXT1
+30;100k;THT;27.629;-17.4773;-90;Bottom;100K
+31;;;68.0156;-1.91889;0;Bottom;Hole22
