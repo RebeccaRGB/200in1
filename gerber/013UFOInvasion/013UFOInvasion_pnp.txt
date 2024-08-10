@@ -1,0 +1,81 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=013UFOInvasion
+*Date=03:02:20
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;68.0156;-68.0244;0;Bottom;Hole21
+2;;;20.5248;-67.6011;0;Bottom;TXT7
+3;;TO92 [THT];35.7508;-40.8232;-90;Bottom;NPN
+4;1k;THT;21.9163;-42.1946;90;Bottom;1K
+5;820;THT;31.4133;-52.1389;0;Bottom;820
+6;;transformer;51.831;-34.7258;0;Bottom;8 OHM
+7;820;THT;31.403;-57.2035;0;Bottom;820
+8;;;4.20825;-12.7652;0;Bottom;Hole17
+9;470;THT;13.4535;-35.9328;-90;Bottom;470
+10;;;1.97556;-68.0244;0;Bottom;Hole22
+11;;;50.098;-52.0716;0;Bottom;TXT4
+12;33k;THT;24.4383;-35.9344;90;Bottom;33K
+13;;;22.2485;-67.5306;0;Bottom;TXT1
+14;4.7k;THT;14.216;-24.4544;0;Bottom;4.7K
+15;;;38.2447;-59.6936;0;Bottom;TXT2
+16;;DIP (Dual Inline) [THT];36.8269;-13.8601;0;Bottom;7476
+17;;;38.2447;-49.5717;0;Bottom;TXT5
+18;;;50.098;-59.6936;0;Bottom;TXT2
+19;;5 mm [THT];12.2416;-56.736;0;Bottom;152 153#1
+20;;THT;63.6753;-9.28892;0;Bottom;POWER
+21;;THT;9.14239;-10.1342;-90;Bottom;50K
+22;;THT;63.684;-30.8896;0;Bottom;SOUND
+23;22k;THT;18.5426;-35.9265;-90;Bottom;22K
+24;;;32.1992;-61.761;0;Bottom;TXT7
+25;10µF;100 mil [THT, electrolytic];26.3356;-45.9874;90;Bottom;10uF
+26;;DIP (Dual Inline) [THT];50.5367;-12.5892;0;Bottom;7400
+27;820;THT;56.8604;-49.6459;0;Bottom;820
+28;820;THT;31.4081;-59.7538;0;Bottom;820
+29;10k;THT;9.1307;-35.941;-90;Bottom;10K
+30;;;68.0156;-1.98444;0;Bottom;Hole19
+31;100k;THT;39.7683;-33.1024;-90;Bottom;100K
+32;820;THT;56.8698;-59.7582;0;Bottom;820
+33;;TO92 [THT];35.7574;-32.3115;-90;Bottom;NPN
+34;;;1.97556;-1.98444;0;Bottom;Hole20
+35;;THT;46.4848;-34.7479;0;Bottom;900CT
+36;100;THT;15.9904;-35.9441;90;Bottom;100
+37;;;14.1111;-12.7652;0;Bottom;Hole18
+38;100µF;100 mil [THT, electrolytic];17.4038;-45.9907;90;Bottom;100uF
+39;;THT;64.2075;-20.2768;0;Bottom;+ 4.5V -
+40;;;51.1928;-54.6057;0;Bottom;TXT3
+41;50nF;100 mil [THT, multilayer];42.2953;-40.738;-90;Bottom;0.05uF
+42;;;51.8804;-25.7994;0;Bottom;Hole16
+43;;;11.2823;-32.8578;0;Bottom;Via1
+44;;TO92 [THT];28.3793;-38.6692;90;Bottom;PNP
+45;1k;THT;21.8926;-29.5317;-90;Bottom;1K
+46;;THT;64.2044;-41.8722;0;Bottom;SPKR
+47;;;42.676;-27.8683;-90;Bottom;TXT9
+48;;;38.2447;-52.0716;0;Bottom;TXT4
+49;100nF;100 mil [THT, multilayer];42.2928;-31.2608;90;Bottom;0.1uF
+50;100µF;100 mil [THT, electrolytic];5.21413;-46.0074;90;Bottom;100uF
+51;;;38.2447;-57.1536;0;Bottom;TXT2
+52;;;50.098;-57.1536;0;Bottom;TXT2
+53;;;37.161;-54.6116;0;Bottom;TXT3
+54;;300 mil [THT];3.84506;-37.2251;-90;Bottom;43 44#1
+55;;;41.9503;-44.0356;90;Bottom;TXT8
+56;;300 mil [THT];3.83759;-27.0755;90;Bottom;71 72#1
+57;;[THT];23.4122;-8.22412;90;Bottom;167 168#1
+58;;300 mil [THT];32.0766;-40.9134;-90;Bottom;41 42#1
+59;;;44.2437;-54.5081;0;Bottom;144 com2
+60;3.3µF;100 mil [THT, electrolytic];11.2909;-45.987;90;Bottom;3.3uF
+61;;;56.5933;-64.5767;0;Bottom;IMG1
+62;820;THT;56.8616;-57.2028;0;Bottom;820
+63;;;51.8821;-43.7098;0;Bottom;Hole15
+64;;TO92 [THT];28.3906;-31.0519;90;Bottom;PNP
+65;820;THT;56.8698;-52.1389;0;Bottom;820
+66;4.7k;THT;6.60013;-35.9385;-90;Bottom;4.7K
