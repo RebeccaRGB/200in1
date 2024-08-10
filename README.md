@@ -14,9 +14,9 @@ Permanent PCB designs of 200 Radio Shack electronics projects.
 | 8   | The Electrosonic Human                |     |  X  |     |     |     |     |     |  X  |     |     |     | 2x1 |  X  |     |     |     |     |
 | 9   | Electric Birthday Cake                |     |     |     |  X  |     |     |     |  X  |     |     |  X  | 2x1 |  X  |     |     |     |     |
 | 10  | Quick Draw                            |     |     |     |     |  X  |     |     |     |     |     |     | 2x1 |  X  |     |     |     |     |
-| 11  | Quick Draw II                         |     |     |     |  X  |  X  |     |     |     |     |  X  |     | 2x2 |     |     |     |     |     |
-| 12  | Electronic Safecracking               |  X  |     |     |     |     |     |     |  X  |     |     |  X  |     |     |     |     |     |     |
-| 13  | UFO Invasion                          |     |  X  |     |  X  |  X  |     |     |  X  |     |  X  |     |     |     |     |     |     |     |
+| 11  | Quick Draw II                         |     |     |     |  X  |  X  |     |     |     |     |  X  |     | 2x2 |  X  |     |     |     |     |
+| 12  | Electronic Safecracking               |  X  |     |     |     |     |     |     |  X  |     |     |  X  | 2x1 |  X  |     |     |     |     |
+| 13  | UFO Invasion                          |     |  X  |     |  X  |  X  |     |     |  X  |     |  X  |     | 2x2 |  X  |     |     |     |     |
 | 14  | Tug of War                            |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |
 | 15  | Shot in the Dark                      |     |     |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |
 | 16  | Burglar Alarm                         |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
