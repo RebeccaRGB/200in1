@@ -17,9 +17,9 @@ Permanent PCB designs of 200 Radio Shack electronics projects.
 | 11  | Quick Draw II                         |     |     |     |  X  |  X  |     |     |     |     |  X  |     | 2x2 |  X  |     |     |     |     |
 | 12  | Electronic Safecracking               |  X  |     |     |     |     |     |     |  X  |     |     |  X  | 2x1 |  X  |     |     |     |     |
 | 13  | UFO Invasion                          |     |  X  |     |  X  |  X  |     |     |  X  |     |  X  |     | 2x2 |  X  |     |     |     |     |
-| 14  | Tug of War                            |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |
-| 15  | Shot in the Dark                      |     |     |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |
-| 16  | Burglar Alarm                         |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 14  | Tug of War                            |     |     |     |     |     |     |     |  X  |  X  |     |     | 2x1 |  X  |     |     |     |     |
+| 15  | Shot in the Dark                      |     |     |  X  |     |     |     |     |  X  |     |     |     | 2x1 |  X  |     |     |     |     |
+| 16  | Burglar Alarm                         |     |  X  |     |     |     |     |     |     |     |     |     | 1x1 |  X  |     |     |     |     |
 | 17  | SOS Alert                             |     |  X  |     |  X  |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |
 | 18  | Target Range                          |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |
 | 19  | Catch the Eight                       |     |     |     |  X  |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |
@@ -62,7 +62,7 @@ Permanent PCB designs of 200 Radio Shack electronics projects.
 | 56  | Meet the Transistor                   |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |
 | 57  | Transistors as Switches               |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |
 | 58  | Electricity from Sound                |     |  X  |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |
-| 59  | Electric Money                        |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |
+| 59  | Electric Money                        |     |     |     |     |     |     |     |     |  X  |     |     | 0x0 |  —  |  —  |  —  |  —  |  —  |
 | 60  | A Push-Pull Amplifier                 |  X  |  X  |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |
 | 61  | Understanding Oscillators             |     |  X  |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |
 | 62  | A Push-Pull Oscillator                |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
