@@ -1,0 +1,42 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=014TugOfWar
+*Date=21:02:22
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;18.367;-18.3945;-90;Bottom;50K
+2;;TO92 [THT];44.5186;-8.21374;-90;Bottom;NPN
+3;330;THT;40.0648;-20.771;-90;Bottom;330
+4;;;1.97555;-1.96592;0;Bottom;Hole3
+5;;;1.97555;-28.0244;0;Bottom;Hole1
+6;;;20.5248;-27.6011;0;Bottom;TXT7
+7;;THT;8.32279;-5.15194;90;Bottom;P1
+8;1k;THT;57.8493;-8.0818;-90;Bottom;1K
+9;;;57.39;-20.4233;0;Bottom;IMG1
+10;;THT;64.2098;-20.91;0;Bottom;+9V-
+11;;;68.0076;-28.0244;0;Bottom;Hole2
+12;33k;THT;55.2964;-20.783;90;Bottom;33K
+13;;THT;18.5032;-5.15242;90;Bottom;+METER-
+14;330;THT;40.0725;-8.08344;90;Bottom;330
+15;1k;THT;57.8383;-20.7876;90;Bottom;1K
+16;;;23.2891;-21.0262;0;Bottom;Hole23
+17;;;29.1011;-17.2689;0;Bottom;TXT7
+18;100k;THT;55.3085;-8.06916;-90;Bottom;100K
+19;;THT;28.6596;-5.17523;90;Bottom;P2
+20;;TO92 [THT];50.3442;-8.22757;-90;Bottom;NPN
+21;10k;THT;37.5203;-20.7828;-90;Bottom;10K
+22;;;13.3863;-21.0262;0;Bottom;Hole22
+23;;THT;63.704;-9.16791;0;Bottom;POWER
+24;;TO92 [THT];50.8539;-20.6685;90;Bottom;PNP
+25;;TO92 [THT];45.026;-20.6546;90;Bottom;PNP
+26;;;68.0115;-1.98774;0;Bottom;Hole4
+27;;;20.4141;-27.5306;0;Bottom;TXT1
