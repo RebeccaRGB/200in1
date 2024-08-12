@@ -1,0 +1,64 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=017SOSAlert
+*Date=01:59:28
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;820;THT;30.1573;-57.5052;0;Bottom;820
+2;;;37.2064;-52.3458;0;Bottom;TXT4
+3;;;49.0315;-57.4278;0;Bottom;TXT2
+4;50nF;100 mil [THT, multilayer];36.0743;-40.7868;90;Bottom;0.05uF
+5;;5 mm [THT];8.18526;-55.4877;-180;Bottom;160 161#1
+6;10nF;100 mil [THT, multilayer];36.0799;-31.267;-90;Bottom;0.01uF
+7;820;THT;55.9403;-57.4971;0;Bottom;820
+8;;THT;63.6904;-30.888;0;Bottom;SOUND
+9;;transformer;48.7176;-35.1304;0;Bottom;8 OHM
+10;4.7k;THT;8.16512;-15.1641;-90;Bottom;4.7K
+11;100µF;100 mil [THT, electrolytic];8.16143;-27.9707;-90;Bottom;100uF
+12;820;THT;30.1543;-49.8932;0;Bottom;820
+13;;;48.762;-44.0865;0;Bottom;Hole15
+14;;5 mm [THT];15.8097;-55.4976;-180;Bottom;162 163#1
+15;;;50.143;-54.8799;0;Bottom;TXT3
+16;820;THT;55.952;-60.0472;0;Bottom;820
+17;820;THT;30.1634;-60.0522;0;Bottom;820
+18;;THT;63.6739;-9.29294;0;Bottom;POWER
+19;820;THT;55.9534;-52.4282;0;Bottom;820
+20;;THT;64.221;-20.2624;0;Bottom;+ 4.5V -
+21;4.7k;THT;15.7808;-15.1519;-90;Bottom;4.7K
+22;;;20.5248;-67.6011;0;Bottom;TXT7
+23;;TO92 [THT];12.0654;-20.4151;90;Bottom;NPN
+24;;;48.7346;-26.1854;0;Bottom;Hole16
+25;;DIP (Dual Inline) [THT];50.5547;-12.5955;0;Bottom;7400
+26;;;55.5344;-64.5767;0;Bottom;IMG1
+27;100µF;100 mil [THT, electrolytic];15.7643;-27.9526;-90;Bottom;100uF
+28;;;30.8755;-61.761;0;Bottom;TXT7
+29;;;37.2064;-49.8459;0;Bottom;TXT5
+30;;;1.97556;-68.0244;0;Bottom;Hole17
+31;;;19.4968;-67.5306;0;Bottom;TXT1
+32;;;36.0779;-54.9211;0;Bottom;TXT3
+33;;;37.2064;-59.9678;0;Bottom;TXT2
+34;470;THT;8.16031;-37.9161;90;Bottom;470
+35;;THT;64.2234;-41.8677;0;Bottom;SPKR
+36;;;68.0156;-68.0244;0;Bottom;Hole20
+37;820;THT;30.1543;-52.4231;0;Bottom;820
+38;;DIP (Dual Inline) [THT];36.8296;-13.8646;0;Bottom;7476
+39;;TO92 [THT];19.6969;-20.4035;90;Bottom;NPN
+40;;;37.2064;-57.4278;0;Bottom;TXT2
+41;;;43.2054;-54.7823;0;Bottom;144 com2
+42;;;49.0315;-59.9678;0;Bottom;TXT2
+43;;TO92 [THT];27.7499;-39.713;90;Bottom;PNP
+44;;;68.0156;-1.98444;0;Bottom;Hole18
+45;;;49.0315;-52.3458;0;Bottom;TXT4
+46;;;1.97556;-1.98444;0;Bottom;Hole19
+47;47k;THT;32.2001;-34.4355;90;Bottom;47K
+48;470;THT;15.7931;-37.9156;90;Bottom;470
+49;;THT;43.339;-35.1999;0;Bottom;900CT
