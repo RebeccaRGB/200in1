@@ -20,7 +20,7 @@ Permanent PCB designs of 200 Radio Shack electronics projects.
 | 14  | Tug of War                            |     |     |     |     |     |     |     |  X  |  X  |     |     | 2x1 |  X  |     |     |     |     |
 | 15  | Shot in the Dark                      |     |     |  X  |     |     |     |     |  X  |     |     |     | 2x1 |  X  |     |     |     |     |
 | 16  | Burglar Alarm                         |     |  X  |     |     |     |     |     |     |     |     |     | 1x1 |  X  |     |     |     |     |
-| 17  | SOS Alert                             |     |  X  |     |  X  |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |
+| 17  | SOS Alert                             |     |  X  |     |  X  |  X  |     |     |     |     |  X  |     | 2x2 |  X  |     |     |     |     |
 | 18  | Target Range                          |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |
 | 19  | Catch the Eight                       |     |     |     |  X  |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |
 | 20  | Marching LEDs                         |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |
